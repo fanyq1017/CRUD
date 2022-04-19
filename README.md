@@ -1,4 +1,4 @@
-##配置说明
+## 配置说明
 在src/conf/jdbc.properties中设置jdbc的url、用户(user)、密码(password)、driverClass
 
 默认使用db_member数据库中的team_member表
